@@ -8,3 +8,6 @@ Pueden hacer lo que quieran...
 
 ###Github
 Cambios realizados en Github.com
+
+###sublime
+Cambios hechos desde sublime
